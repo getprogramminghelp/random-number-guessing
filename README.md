@@ -2,6 +2,7 @@
 
 Welcome to the Amazing Number Guessing Game! This user manual will guide you through the game mechanics and provide helpful tips for a successful gameplay experience. Additionally, we would like to introduce you to our [Python homework help service](https://domyprogramminghomework.io/python-homework-help/) offered by [Domyprogramminghomework.io](Domyprogramminghomework.io). If you need expert assistance with your Python assignments, don't hesitate to reach out to us at team@domyprogramminghomework.io.
 
+![Output Screenshot](random-number.png)
 ## Objective:
 The objective of the game is to guess the secret number chosen by the computer. The secret number is a whole number between 1 and 10, inclusive.
 
